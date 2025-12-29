@@ -16,6 +16,18 @@
       "device_id": "a2c3777653fc159e",
       "username": "Username",
       "password": "password",
+      "expire_date": "2025-01-29"
+    },
+    {
+      "device_id": "a533d4757a0943a2",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2026-01-29"
+    },
+    {
+      "device_id": "a2c3777653fc159e",
+      "username": "Username",
+      "password": "password",
       "expire_date": "2026-01-29"
     },
     {
