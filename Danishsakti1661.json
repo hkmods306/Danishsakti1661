@@ -13,6 +13,12 @@
       "expire_date": "2025-12-20"
     },
     {
+      "device_id": "b0501c811742e06c",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2026-03-11"
+    },
+    {
       "device_id": "a2f1f496917ae960",
       "username": "Username",
       "password": "password",
