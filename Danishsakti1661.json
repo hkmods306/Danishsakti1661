@@ -16,6 +16,18 @@
       "device_id": "3084fa1e01464c2b",
       "username": "Username",
       "password": "password",
+      "expire_date": "2025-05-18"
+    },
+    {
+      "device_id": "4df5c637c58f9d56",
+      "username": "Username",
+      "password": "password",
+      "expire_date": "2025-05-18"
+    },
+    {
+      "device_id": "3084fa1e01464c2b",
+      "username": "Username",
+      "password": "password",
       "expire_date": "2026-05-18"
     },
     {
